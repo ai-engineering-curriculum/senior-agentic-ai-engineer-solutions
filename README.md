@@ -14,7 +14,7 @@
 ## 🎯 Overview
 
 This repository holds the **reference solutions** for the paired
-[`ai-infra-senior-agentic-ai-engineer-learning`](https://github.com/ai-infra-curriculum/ai-infra-senior-agentic-ai-engineer-learning)
+[`ai-infra-senior-agentic-ai-engineer-learning`](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-learning)
 track. The Senior Agentic AI Engineer rung sits at **L40**, and the bar is
 different from earlier tracks: the module exercises grade **judgment over
 mechanics**. A senior is expected to choose between implementations of a known
@@ -84,7 +84,7 @@ learning repo. They are most valuable as a comparison and a model, not a
 shortcut.
 
 1. **Attempt the exercise first** in
-   [`ai-infra-senior-agentic-ai-engineer-learning`](https://github.com/ai-infra-curriculum/ai-infra-senior-agentic-ai-engineer-learning),
+   [`ai-infra-senior-agentic-ai-engineer-learning`](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-learning),
    including the written artifacts — the ADR, the runbook, the RFC. At L40 the
    writing *is* the work.
 2. **Run the reference.** For mod-401, from any exercise directory:
@@ -111,13 +111,13 @@ shortcut.
 This repo is the answer key. The exercises, stubs, and concept chapters live in
 the paired learning repository — start there:
 
-- **[ai-infra-senior-agentic-ai-engineer-learning](https://github.com/ai-infra-curriculum/ai-infra-senior-agentic-ai-engineer-learning)**
+- **[ai-infra-senior-agentic-ai-engineer-learning](https://github.com/ai-engineering-curriculum/senior-agentic-ai-engineer-learning)**
   — learning materials, exercise specs, and acceptance criteria for the Senior
   Agentic AI Engineer (L40) track.
 
 ## Related Repositories
 
-- **[ai-infra-agentic-ai-engineer-solutions](https://github.com/ai-infra-curriculum/ai-infra-agentic-ai-engineer-solutions)**
+- **[ai-infra-agentic-ai-engineer-solutions](https://github.com/ai-engineering-curriculum/agentic-ai-engineer-solutions)**
   — the L30 rung below this track on the agentic ladder.
 - **[ai-infra-systems-architect-solutions](https://github.com/ai-infra-curriculum/ai-infra-systems-architect-solutions)**
   — the L48 rung above this track on the agentic ladder.
